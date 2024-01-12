@@ -27,4 +27,12 @@ To be learned
 -----------------------------------------------------------------
 
 Connect with me!
+<br>
 
+<p>
+<a href= "https://www.linkedin.com/in/matheus-henrique-aguiar-pedro/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href= "mathen2k1@outlook.com">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</p>
