@@ -34,6 +34,10 @@ To be learned
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma7hz)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma7hz&hide_progress=true)
+
 -----------------------------------------------------------------
 
 Connect with me!
