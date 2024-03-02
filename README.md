@@ -2,7 +2,7 @@
 
 Sou Matheus Henrique, e sou um programador em processo de profissionalização.
 
-Meu foco é entrar na área de Front End, mas estou apto para se adentrar ao Full Stack.
+Estou estudando Frontend, mas pode ser que um dia me tornaei um Fullstack.
 
 No momento, estou estudando Javascript, mas também procuro me aprofundar mais em CSS; por mais que eu entenda alguns conceitos básicos, é algo extensivo, e preciso conhecer mais em como usar.
 
@@ -12,7 +12,7 @@ Aqui, demonstrarei e divulgarei alguns dos meus projetos criados. Não hesite em
 
 I'm Matheus Henrique, and I'm a programmer in the process of professionalization.
 
-My focus is to enter the Front End area, but I am ready to enter Full Stack.
+I'm studying Frontend, but one day I will become a Fullstack.
 
 At the moment, I'm studying Javascript, but I'm also looking to delve deeper into CSS; Even though I understand some basic concepts, it is extensive and I need to know more about how to use it.
 
