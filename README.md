@@ -2,8 +2,6 @@
 
 Sou Matheus Henrique, e sou um programador em processo de profissionalização.
 
-Estou estudando Frontend, mas pode ser que um dia me tornarei um Fullstack.
-
 No momento, estou estudando Node.js, e espero conhecer mais da parte de Back End sempre que possível; além de que também quero me aprofundar em Front End novamente.
 
 Aqui, demonstrarei e divulgarei alguns dos meus projetos criados. Não hesite em me seguir por aqui (e nas outras redes sociais), sinta-se bem vindo!
@@ -11,8 +9,6 @@ Aqui, demonstrarei e divulgarei alguns dos meus projetos criados. Não hesite em
 :us: Hi! :blush:
 
 I'm Matheus Henrique, and I'm a programmer in the process of professionalization.
-
-I'm studying Frontend, but one day I will become a Fullstack.
 
 I'm currently studying Node.js, and I hope to learn more about the Back End whenever possible; As well i also want to delve deeper into Front End again.
 
